@@ -1,3 +1,10 @@
+/*
+ * Devoir 3 – Arbres binaires de recherche
+ *
+ * Fait par : Émile Simard          (SIME09050100)
+ *            Xavier Boivin-Thibeault (BOIX19050400)
+ */
+
 #include "abr.h"
 using namespace std;
 

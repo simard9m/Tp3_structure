@@ -1,6 +1,6 @@
-﻿  abr.cpp
-C:\Users\Émile\Desktop\Tp3_structure\abr.cpp(121,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
-  Devoir3.cpp
-C:\Users\Émile\Desktop\Tp3_structure\Devoir3.cpp(25,14): warning C4101: 'virgule' : variable locale non référencée
+﻿  Devoir3.cpp
+C:\Users\Émile\Desktop\Tp3_structure\Devoir3.cpp(32,14): warning C4101: 'virgule' : variable locale non référencée
+  abr.cpp
+C:\Users\Émile\Desktop\Tp3_structure\abr.cpp(128,22): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
   Génération de code en cours...
   Devoir3.vcxproj -> C:\Users\Émile\Desktop\Tp3_structure\x64\Debug\Devoir3.exe

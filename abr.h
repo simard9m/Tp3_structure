@@ -1,3 +1,9 @@
+/*
+ * Devoir 3 – Arbres binaires de recherche
+ *
+ * Fait par : Émile Simard          (SIME09050100)
+ *            Xavier Boivin-Thibeault (BOIX19050400)
+ */
 #ifndef ABR_H
 #define ABR_H
 

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "abr.h",
               "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\abr.h",
               "RelativeToolTip": "abr.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-29T20:00:50.844Z",
               "IsPinned": true
@@ -47,9 +47,9 @@
               "Title": "operations.txt",
               "DocumentMoniker": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\operations.txt",
               "RelativeDocumentMoniker": "operations.txt",
-              "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\operations.txt",
-              "RelativeToolTip": "operations.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\operations.txt*",
+              "RelativeToolTip": "operations.txt*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-11-29T21:23:11.435Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "abr.cpp",
               "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\abr.cpp",
               "RelativeToolTip": "abr.cpp",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-29T20:19:08.979Z"
             },
@@ -74,9 +74,10 @@
               "RelativeDocumentMoniker": "Devoir3.cpp",
               "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\Devoir3.cpp",
               "RelativeToolTip": "Devoir3.cpp",
-              "ViewState": "AgIAACMAAAAAAAAAAADwvz4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T19:48:43.318Z"
+              "WhenOpened": "2025-11-29T19:48:43.318Z",
+              "EditorCaption": ""
             }
           ]
         }
