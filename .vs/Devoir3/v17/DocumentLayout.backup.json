@@ -47,9 +47,9 @@
               "Title": "operations.txt",
               "DocumentMoniker": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\operations.txt",
               "RelativeDocumentMoniker": "operations.txt",
-              "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\operations.txt*",
-              "RelativeToolTip": "operations.txt*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u00C9mile\\Desktop\\Tp3_structure\\operations.txt",
+              "RelativeToolTip": "operations.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-11-29T21:23:11.435Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Devoir3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T19:48:43.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-29T19:48:43.318Z"
             }
           ]
         }
